@@ -1,0 +1,9 @@
+Package: libgeotiff
+Version: 1.7.1
+Port-Version: 1
+Depends: proj, tiff, vcpkg-cmake:x64-windows, vcpkg-cmake-config:x64-windows
+Architecture: x86-windows
+Multi-Arch: same
+Abi: c61a39e6fdab394ebe5677c038bfad696f11d21d359029f3e712c2b9be3b960b
+Description: Libgeotiff is an open source library on top of libtiff for reading and writing GeoTIFF information tags.
+Type: Port
